@@ -1,0 +1,41 @@
+
+body {
+    background-color: #e6bfa3;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin-top: 40px;
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    background-color: rgb(255, 255, 255);
+}
+tr{
+    font-size: 14px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.contants{
+    text-align: center;
+}
+table {
+    border-collapse:collapse;
+    font-family:verdana, arial, sans-serif;
+    line-height:2em;
+    border:2px solid rgb(6, 6, 6);
+    margin: 5px;
+
+}
+td, th {
+    padding:5px;
+    border-top:1px solid #ddd;
+}
+th {
+    background:#7d066b;
+    color: white;
+
+}
